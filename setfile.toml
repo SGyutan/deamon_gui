@@ -1,0 +1,7 @@
+target_folder = './TARGET'
+save_folder = './SAVE'
+
+# default read file format
+# input 'type1' or 'type2'
+
+file_type = 'type1'
